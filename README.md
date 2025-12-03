@@ -159,11 +159,11 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-**Likhith Chandra**  
+**Likhith Challampalam**  
 - Role: Master's Student in Digital Health | Python Developer
 - Education: La Trobe University, Melbourne | Pharm.D (Pharmacy)
 - Email: likhithc98@gmail.com  
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: www.linkedin.com/in/c-likhith-670a1b235
 - GitHub: [@likhithc98-commits](https://github.com/likhithc98-commits)
 
 ## 📧 Support
